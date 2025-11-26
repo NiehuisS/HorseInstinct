@@ -5,8 +5,6 @@ Unten findest du die Schritte, um die Seite lokal herunterzuladen, zu starten un
 
 ## 📥 Projekt herunterladen
 
-Es gibt zwei einfache Wege, das Projekt von GitHub zu bekommen:
-
 ### **1. Über ZIP (am einfachsten)**
 1. Auf der GitHub-Seite oben rechts auf **Code** klicken  
 2. **Download ZIP** auswählen  
