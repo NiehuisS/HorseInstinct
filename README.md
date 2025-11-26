@@ -15,3 +15,9 @@ Es gibt zwei einfache Wege, das Projekt von GitHub zu bekommen:
 5. index.html per Rechtsklick und "Öffnen mit..." in einem Browser deiner wahl öffnen 
 
 ---
+## **2. Change Log**
+
+26.11.2025
+- Schriftfarben auf weiß geändert
+- Kontakt möglichkeiten angepasst
+- Rechtschreibung und Grammatik verbessert
